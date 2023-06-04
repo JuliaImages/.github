@@ -18,5 +18,9 @@ and collaborate more effectively in advancing image processing techniques.
 - 👩‍💻 You can find the documentation at [this link](https://juliaimages.org/latest), and there are also examples available [here](https://juliaimages.org/latest/examples/).
 - 🧙 Zulip, Slack, Discourse are great platforms for discussions on JuliaImages(#image-processing). 
 
+[![Zulip](https://img.shields.io/badge/Zulip-Join_Chat-blue.svg?logo=zulip&style=flat)](https://julialang.zulipchat.com/#narrow/stream/390029-image-processing)
+[![Slack](https://img.shields.io/badge/Slack-Join_Chat-blue.svg?logo=slack&style=flat)](https://join.slack.com/t/julialang/shared_invite/zt-19tuj4ckz-Fn5fcoxsoIEoKY4cc1tKGw)
+[![Discourse](https://img.shields.io/badge/Discourse-Join_Chat-blue.svg?logo=discourse&style=flat)](https://discourse.julialang.org/c/domain/dsp/26)
+
 ---
 For more information on JuliaImages, check out [JuliaImages's Website](https://juliaimages.org/).
